@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(41, 41, 195)
+  font-size: 36px;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 16px;
+}
+
+li {
+  font-style: italic;
+}
+
+.fruits{
+  font-color: green;
+  font-weight: bold;
+}
